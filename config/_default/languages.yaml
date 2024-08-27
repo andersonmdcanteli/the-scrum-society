@@ -1,0 +1,19 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+# as
+# Default language
+en:
+  languageCode: en-us
+  contentDir: content/en
+  params:
+    tile: The Scrum Sociey
+    description: Explore an innovative analogy between The Lord of the Rings and Scrum, where the epic journey of the Fellowship of the Ring meets the agile world. Discover how the characters and events of Middle Earth can inspire your Scrum team to reach new heights of collaboration and project success.
+
+# Other languages
+pt:
+  languageCode: pt-br
+  contentDir: content/pt
+  params:
+    tile: A Sociedade do Scrum
+    description: Explore uma analogia inovadora entre O Senhor dos Anéis e Scrum, onde a jornada épica da Sociedade do Anel encontra o mundo ágil. Descubra como os personagens e eventos da Terra Média podem inspirar seu time Scrum a alcançar novos patamares de colaboração e sucesso em projetos.

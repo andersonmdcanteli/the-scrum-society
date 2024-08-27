@@ -1,0 +1,33 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: The Scrum Society
+    url: the-scrum-society/
+    weight: 10
+  - name: Desenvolvedores
+    url: developers/
+    weight: 20
+  - name: Product Owner
+    url: product-owner
+    weight: 30
+  - name: Scrum Master
+    url: scrum-master
+    weight: 40
+  # - name: Events
+  #   url: events
+  #   weight: 50 
+  # - name: Increments
+  #   url: increments
+  #   weight: 50       
+  # - name: Other
+  #   url: other
+  #   weight: 60
+  - name: Glossário
+    url: glossary
+    weight: 70        
+  - name: Disclaimer
+    url: disclaimer
+    weight: 80    
